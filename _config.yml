@@ -7,7 +7,7 @@ author:
   url: "http://sungeuns.github.com"
 
 # Build settings
-baseurl: /blog/
+baseurl: /
 markdown: kramdown
 source: .
 destination: ./_site
