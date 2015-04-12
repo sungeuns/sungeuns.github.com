@@ -1,13 +1,13 @@
 # Site settings
 title: Seongeun So
 description: "Programming, Artificial Intelligence, Startup and Entrepreneurship"
-url: "http://http://sungeuns.github.com"
+url: "http://sungeuns.github.com"
 author:
   name: "Seongeun So"
-  url: "http://http://sungeuns.github.com"
+  url: "http://sungeuns.github.com"
 
 # Build settings
-baseurl: /blog # default : root path
+baseurl: /blog/
 markdown: kramdown
 source: .
 destination: ./_site
