@@ -16,12 +16,17 @@ categories: startup world
 - 최근 잘나가고 있는 docker 가 $100M을 투자받음.
 	- [기사링크](http://bits.blogs.nytimes.com/2015/04/14/docker-raises-another-95-million-in-funding/?_r=0)
 
-- http://fortune.com/2015/04/14/security-startup-illumio-raises-100-million/ : cyber security 분야의 2년된 스타트업인 illumio 가 $100M 을 투자받음.
+- cyber security 분야의 2년된 스타트업인 illumio 가 $100M 을 투자받음.
+	- [기사링크](http://fortune.com/2015/04/14/security-startup-illumio-raises-100-million/)
 
-- http://techcrunch.com/2015/04/14/zomato-50m-maplepos/ : 인도의 레스토랑 검색 앱인 Zomato 가 1조원 이상의 기업가치로 $50M 을 투자받음.
+- 인도의 레스토랑 검색 앱인 Zomato 가 1조원 이상의 기업가치로 $50M 을 투자받음.
+	- [기사링크](http://techcrunch.com/2015/04/14/zomato-50m-maplepos/)
 
-- http://techcrunch.com/2015/04/13/biginjapan/ : 일본의 라쿠텐이 PopSugar를 $580M 에 인수할 계획이라고 함.
+- 일본의 라쿠텐이 PopSugar를 $580M 에 인수할 계획이라고 함.
+	- [기사링크](http://techcrunch.com/2015/04/13/biginjapan/)
 
-- http://techcrunch.com/2015/04/14/movidius-raises-40m-to-bring-computer-visionto-mobile-devices/ : Google Tango 태블릿에도 들어가는 vision processor를 만드는 Movidius가 $40M을 투자받음.
+- Google Tango 태블릿에도 들어가는 vision processor를 만드는 Movidius가 $40M을 투자받음.
+	- [기사링크](http://techcrunch.com/2015/04/14/movidius-raises-40m-to-bring-computer-visionto-mobile-devices/)  
 
-- http://techcrunch.com/2015/04/14/duo-security-30m-redpoint/ : 엔터프라이즈 데이터 보호를 위한 Duo Security 가 $30M을 투자받음.
+- 엔터프라이즈 데이터 보호를 위한 Duo Security 가 $30M을 투자받음.
+	- [기사링크](http://techcrunch.com/2015/04/14/duo-security-30m-redpoint/) 

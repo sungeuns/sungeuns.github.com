@@ -19,3 +19,10 @@ categories: story
 많은 geek 이나 nerd들이 많이 사용하고 있기도 하고, github에 jekyll 을 이용해서 블로깅을 하면 커스터마이징도 어렵지 않게 할 수 있을 것 같아서 선택하게 되었다.
 
 프로그래머 스럽다는 장점은 있지만, 이것이 단점인 것은 markdown 문서로 포스트 작성 후 이것을 github 에 push 해야 한다는 불편함 또한 있지만, 그래도 github 계정 자체가 이력서가 되는 시대에 충분히 매력적인 것 같다.
+
+
+
+### Jekyll을 이용한 블로깅
+
+해당 내용은 검색하면 많이 나오는데, 참고한 블로그를 링크를 참고하는 것이 좋을 것 같다.
+- [링크](https://nolboo.github.io/blog/2013/10/15/free-blog-with-github-jekyll/)
