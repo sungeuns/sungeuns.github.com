@@ -1,0 +1,116 @@
+/*------------------------------------------------------------------------------------------------------------*/
+/*FONTS*/
+
+@font-face {
+	font-family: 'Colaborate Thin';
+	src: local('Colaborate Thin'), url("../fonts/ColabThi.otf") format('opentype');
+}
+
+@font-face {
+	font-family: 'Lane Narrow';
+	src: local('Lane Narrow'), url("../fonts/LANENAR_.ttf") format('truetype');
+}
+
+/*------------------------------------------------------------------------------------------------------------*/
+
+* {
+	 margin: 0px;
+	 padding: 0px;
+}
+
+body {
+	background: oldlace;
+  color: gray;
+	font-family: "Lane Narrow";
+  font-size: 50px;
+}
+
+::selection {
+	background: transparent;
+}
+
+#container {
+  padding: 50px;
+}
+
+#hi {
+  margin-top: 14%;
+}
+
+#links {
+  text-shadow: none;
+  font-family: "Open Sans";
+  font-size: 20px;
+}
+
+a {
+	text-decoration: none;
+  color: gray;
+}
+
+a:hover {
+  color: rgb(100, 100, 100);
+}
+
+.typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+
+/*--------------*/
+
+
+#links a {
+	position: relative;
+}
+
+.cl-effect-13 a {
+	-webkit-transition: color 0.3s;
+	-moz-transition: color 0.3s;
+	transition: color 0.3s;
+}
+/*
+.cl-effect-13 a::before {
+	position: absolute;
+	top: 100%;
+	left: 50%;
+	color: transparent;
+	content: '•';
+	text-shadow: 0 0 transparent;
+	font-size: 0.8em;
+	-webkit-transition: text-shadow 0.3s, color 0.3s;
+	-moz-transition: text-shadow 0.3s, color 0.3s;
+	transition: text-shadow 0.3s, color 0.3s;
+	-webkit-transform: translateX(-50%);
+	-moz-transform: translateX(-50%);
+	transform: translateX(-50%);
+	pointer-events: none;
+}
+
+.cl-effect-13 a:hover::before,
+.cl-effect-13 a:focus::before {
+	color: gray;
+	text-shadow: 10px 0 gray, -10px 0 gray;
+}*/
+
+.cl-effect-13 a:hover,
+.cl-effect-13 a:focus {
+	color: rgb(187, 178, 113);
+}
