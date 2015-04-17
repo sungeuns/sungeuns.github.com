@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "스타트업 관련 소식들 (2014/4/16)"
+title:  "스타트업 관련 소식들 (2015/4/16)"
 date:   2015-04-16 00:38:53
 categories: startup world
 ---

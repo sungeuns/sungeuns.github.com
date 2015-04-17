@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "스타트업 관련 소식들 (2015/4/17)"
+date:   2015-04-17 15:38:53
+categories: startup world
+---
+
+최근 주목받는 스타트업 중 하나인 Slack 이 $160M 을 투자받았다. 작년 10월 까지만 해도 1조원이 좀 넘는 기업가치였지만, 이번 투자에서는 무려 3조원 가까이 되는 기업가치를 인정받았다. 
+[기사링크](http://venturebeat.com/2015/04/16/slack-confirms-160m-funding-round-at-2-8b-valuation/)
+
+
+물론 유료로 사용하는 회사들이 많다고는 하지만, 이정도로 크게 기업가치가 평가될 수 있는지에 관해 많은 사람들이 의구심을 가져서 그런지, 창업자인 Stewart Butterfield 와의 인터뷰가 기사로 떴다. 
+[기사링크](http://bits.blogs.nytimes.com/2015/04/16/is-slack-really-worth-2-8-billion-a-conversation-with-stewart-butterfield/?_r=0)
+
+
+실리콘벨리의 특성 상 여러 투자자들과 창업자들, 스타트업에 관계된 수 많은 사람들이 얽히고 섥혀 있기 때문에 기업의 실제 가치보다 평가액이 크게 평가된다고 생각된다. 또한, 최근 버블이 껴 있기도 하고 말이다.
+
+그나저나, Slack의 창업 스토리를 보면, 트위터와 꽤 비슷한 점이 많다. 많은 사람들이 모르고 있는 사실인데, 스튜어트 버터필드는 야후에 거액에 인수된 Flickr의 공동 창업자이기도 하다. Flickr를 야후에 비싼 값에 팔고 한동안 Yahoo! 에서 일했지만, 많은 성공한 스타트업 창업가가 그런 것처럼 그도 Yahoo! 를 나와 새로운 스타트업을 시작한다. Tiny Speck이라는 Glitch라는 게임을 만드는 회사를 세웠는데, 예전에 세웠던 그의 성공 덕에 많은 투자도 받고 게임도 출시했지만 기대만큼 잘 되지는 못한다. 그래서 회사를 접고, 남은 자금은 투자자에게 돌려주려고 한다. 하지만, 투자자는 그냥 그가 원하는 것을 계속 하기를 원하고, 그래서 시작한 것이 Slack이다. Slack은 원래 Tiny Speck 내부에서 직원들이 필요에 의하여 만든 것이 시작이다. 이것을 본격적으로 비즈니스화 하여, 지금에까지 이르게 된 것이다. 그때 당시 Enterprise communication service를 꼽자면 Atlassian 의 Hipchat이나 현재는 MS에 인수된 Yammer 등이 있었는데, 여러가지 필요성을 다 채워 주지는 못했다. 개인적인 느낌으로도 Yammer는 너무 SNS느낌이라 실시간 chat기능은 많이 약하다고 느꼈고, Hipchat은 지금은 꽤 괜찮아 졌지만 예전에는 굉장히 서비스가 불안정했다. 물론 지금이야 Facebook도 이쪽에 뛰어들고 경쟁자가 더 많지만, 그래도 Slack이 chat 기능에 충실한 것 뿐 아니라 연동 기능도 많아서 매력적이라고 생각한다. 
+
+어쨌든, Slack이 아직 Exit을 한 스타트업은 아니지만, 이미 많은 이익을 내고 있으니, 창업자인 스튜어트 버터필드는 serial entrepreneur로서의 능력을 또 한번 입증한 셈이 된 것이다. 여러 모로 존경스러운 사람이다.
+
+<br>
+
+어제 올린 포스트에서 Etsy의 IPO가 임박했다고 했는데, 미국시간으로는 오늘 IPO를 했고 첫날 무려 94%나 올랐다. 분명 꽤 오를 것이라고 생각은 했지만 이정도로 많이 오를 줄은 몰랐는데, 물론 실리콘 벨리 기업 특성 상 최소한 몇 개월은 두고 보아야 할 것 같다. 어쨌든, Etsy는 단숨에 $3.5B, 즉 한화로 4조원에 가까운 기업가치를 지닌 회사가 되었다. 앞으로는 3D printer 등의 발달로 Maker 문화가 더욱 더 확산 될 것이고, 그런 이유로 인해 사람들이 Etsy에 거는 기대가 큰 것 같다.
+[기사링크](http://techcrunch.com/2015/04/16/etsy-stock-surges-86-percent-at-close-of-first-day-of-trading-to-30-per-share/#.v7k0ui:TfLd)
+
+<br>
+
+Photo-sharing service 인 EyeEm 이 $18M을 펀딩받았다고 한다. 사진 기반 SNS는 이미 Instragram이라는 거대한 회사가 있긴 한데, EyeEm은 일반적인 사진 공유 SNS는 아니고 사진가 들이 돈을 받고 팔 수 있을 만한 사진들을 올리는 곳이라고 한다. 이 쪽 분야에는 별 관심이 없어서 시장이 얼마나 크고 현재 매출이나 이익이 얼마나 나는지는 모르겠지만, 개인적인 생각으로는 투자 금액에 버블이 좀 많이 낀 것 같다.
+[기사링크](http://recode.net/2015/04/16/eyeem-raises-18-million-in-quest-to-sell-your-smartphone-photos/)
+
