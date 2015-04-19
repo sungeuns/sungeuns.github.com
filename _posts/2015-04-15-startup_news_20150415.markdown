@@ -2,7 +2,7 @@
 layout: post
 title:  "스타트업 관련 소식들 (2015/4/15)"
 date:   2015-04-15 00:38:53
-categories: startup world
+tags: [Startup World]
 ---
 
 최근 몇 개월 사이에 굵직 굵직한 투자 및 인수 뉴스가 꽤 많이 나오고 있다. unicorn club (기업가치 평가액 1조원 이상)에 새로 진입한 스타트업들도 이번 년도 들어 굉장히 많아진 느낌이다.

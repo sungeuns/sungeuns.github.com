@@ -2,7 +2,7 @@
 layout: post
 title:  "스타트업 관련 소식들 (2015/4/17)"
 date:   2015-04-17 00:13:00
-categories: startup world
+tags: [Startup World]
 ---
 
 최근 주목받는 스타트업 중 하나인 Slack 이 $160M 을 투자받았다. 작년 10월 까지만 해도 1조원이 좀 넘는 기업가치였지만, 이번 투자에서는 무려 3조원 가까이 되는 기업가치를 인정받았다. 

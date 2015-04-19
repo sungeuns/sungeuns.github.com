@@ -2,7 +2,7 @@
 layout: post
 title:  "첫번째 블로그 포스팅"
 date:   2015-04-13 00:38:53
-categories: story
+tags: [Story]
 ---
 
 ### 블로그
