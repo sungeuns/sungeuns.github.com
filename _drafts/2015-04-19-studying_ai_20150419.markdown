@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "AI 공부하기 좋은 리소스들 (2015/4/19)"
+date:   2015-04-19 00:13:00
+categories: artificial intelligence
+---

@@ -26,4 +26,6 @@ categories: story
 
 해당 내용은 검색하면 많이 나오는데, 참고한 블로그를 링크를 참고하는 것이 좋을 것 같다.
 
-- [링크](https://nolboo.github.io/blog/2013/10/15/free-blog-with-github-jekyll/)
+- [링크1](https://nolboo.github.io/blog/2013/10/15/free-blog-with-github-jekyll/)
+- [링크2](http://joshualande.com/jekyll-github-pages-poole/)
+- [링크3](https://github.com/poole/poole)
