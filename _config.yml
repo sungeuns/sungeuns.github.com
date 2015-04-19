@@ -23,6 +23,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+	  comments: true
 
 # Custom variables
 version: "1.0.1"
