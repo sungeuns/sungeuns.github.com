@@ -17,12 +17,12 @@ Rentec 뿐 아니라 여러 유명한 알고리즘을 이용한 hedge fund 를 �
 <br>
 
 <img src="/post_img/quantopian_sc1.png" alt="">
-Quantopian 에서 sample을 돌리는 모습
+Quantopian 에서 sample을 돌리는 모습. Quantopian 은 Python을 이용하여 알고리즘을 작성할 수 있다. Python을 이용한 트레이딩 관련 라이브러리인 [Zipline]((http://www.zipline.io/) 을 이미 github에 오픈소스로 공개 해 놓았고, 많은 인기를 끌고 있다. 이미 200억원 넘게 투자받기도 하였다.
 
 <br>
 
 <img src="/post_img/quant_connect_sc1.png" alt="">
-QuantConnect의 sample algorithm의 모습
+QuantConnect의 sample algorithm의 모습. QuantConnect는 비교적 신생 스타트업이며, C# 기반으로 알고리즘 작성이 가능하다.
 
 <br>
 
@@ -30,7 +30,13 @@ QuantConnect의 sample algorithm의 모습
 
 쉽게 생각해 보자. 여러 사용자가 자신들의 알고리즘을 넣어서 경쟁하게 되면, 분명 top 10 정도 안에 드는 알고리즘들은 꽤 괜찮은 수익률을 얻을 것이다. 그렇다면 이들은 이런 알고리즘들을 조합하고 시장 대충격에 대한 약간의 안전장치 정도만 마련하면 앉아서 높은 수익률을 얻을 수 있는 것이다. 물론 가입 약관에는 허가하지 않는다면 알고리즘은 사용자의 소유라고 되어 있긴 하지만, IDE 자체가 web-based IDE 이므로 사실상 모든 코드와 Machine Learning 학습을 하여 나온 모델링된 파일 등을 이 플랫폼 회사들이 다 가질 수 있는 것이다. 그리고 이미 가이드 문서에 top performance를 내는 유저는 투자 파트너가 될 것이라고 명시 해 놓았다.
 
+난 이것이 매우 혁명적이라고 생각한다. 인터넷의 발달, 스마트폰 등의 발달로 인해 공유 경제라던가, on-demand 서비스 라던가, crowd-sourcing 이 매우 널리 퍼졌고, 이것이 금융 쪽에도 접목이 된 것인데, 과연 이들이 기존의 잘나가는 wall street의 hedge fund 들을 이길 지 궁금하다.
 
+나는 이들의 비즈니스 모델이 정말 끝내주게 좋다고 생각한다. 일단 어느 정도 사용자가 있다면 수익률이 굉장히 높을 것으로 예상되기 때문이다. 이를 Kaggle 과 비교해 볼 수 있다. Kaggle 같은 경우는 전 세계의 많은 Data Scientist, 인공지능이나 머신러닝 쪽에 종사하거나 관심있어 하는 사용자들을 모았지만 정작 수익을 내기가 힘들다. 일단 기업들이 competition에 제공할 데이터를 obfuscation 하는 것도 문제가 될 수 있으며, competition 자체 상금도 얼마 되지 않는데 이 수수료는 정말 쥐꼬리 만 하기 때문이다.
+물론 사용자들이 전문가가 많으므로, 전문가 유저 풀을 가지게 되어 최근에는 기업 채용이나, 관련된 쪽으로 비즈니스 모델을 확보하려는 것 같은데 쉽지 않아 보인다. 기존에 석유 시추 회사들과 진행하던 석유 시추를 위한 데이터 분석 프로젝트도 취소되어 현재는 competition 부문에 집중하고 있는데, 여기서 돈을 벌 수단이 그렇게 많지 않다는 것이다. 
 
+다만, 여기서 생각 해 봐야 할 점은 Kaggle은 실제 세상에 도움이 되는 일을 하고 있다는 것이다. 의학 관련 competition이나 공공기관의 competition을 보면 현실 세계에 존재하는 문제들을 Kaggle competition에 올려 해결하고 향상시키기도 한다. Quantopian 이나 QuantConnect는 비즈니스 모델은 확실하고 돈을 벌 수는 있지만, 현실 세계에 도움이 된다기 보다 그냥 돈 버는 데 집중하는 것 같은 느낌이 드는데, 물론 이것이 잘못되었다는 것은 전혀 아니다.
+
+각설하고, 이러한 플랫폼이 인기를 끄는 것을 보면 미국이 확실히 Quant도 많고 알고리즘 트레이딩, 금융 공학이나 IT와 접목된 금융이 잘 발달되었다는 것이 느껴진다. 국내에서도 한국형 Quantopian을 지향하는 tradejs 라는 꽤 괜찮은 서비스가 오픈했었는데, 현재는 운영하지 않는 것 같다. 아마 사용자층이 너무 적어서 그런 것 같은데 금융 선진국으로 가려면  Machine Learning이나 Artificial Intelligence 분야에서 쓰이는 기술들을 금융에 접목시키고 금융 공학 분야를 발전시킬 필요가 아주 많이 있어 보인다.
 
 
