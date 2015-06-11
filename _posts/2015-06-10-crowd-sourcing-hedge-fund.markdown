@@ -17,7 +17,7 @@ Rentec 뿐 아니라 여러 유명한 알고리즘을 이용한 hedge fund 를 �
 <br>
 
 <img src="/post_img/quantopian_sc1.png" alt="">
-Quantopian 에서 sample을 돌리는 모습. Quantopian 은 Python을 이용하여 알고리즘을 작성할 수 있다. Python을 이용한 트레이딩 관련 라이브러리인 [Zipline]((http://www.zipline.io/) 을 이미 github에 오픈소스로 공개 해 놓았고, 많은 인기를 끌고 있다. 이미 200억원 넘게 투자받기도 하였다.
+Quantopian 에서 sample을 돌리는 모습. Quantopian 은 Python을 이용하여 알고리즘을 작성할 수 있다. Python을 이용한 트레이딩 관련 라이브러리인 [Zipline](http://www.zipline.io/) 을 이미 github에 오픈소스로 공개 해 놓았고, 많은 인기를 끌고 있다. 이미 200억원 넘게 투자받기도 하였다.
 
 <br>
 
