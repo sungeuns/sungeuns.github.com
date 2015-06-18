@@ -18,3 +18,15 @@ Nasdaq 에서는 bitcoin의 blockchain 기술을 이용하여 비상장 회사�
 
 이 외에도 최근 국내에서 여러 금융 관련 서비스를 제공하는 스타트업들이 많이 생기고 있다.
 
+
+
+
+
+Ufora 라는 스타트업은 data mining & AI 기술을 이용하여 hedge fund 관련 데이터를 분석한다. 
+[기사 - The $10 Hedge Fund Supercomputer That’s Sweeping Wall Street](http://www.bloomberg.com/news/articles/2015-05-20/the-10-hedge-fund-supercomputer-that-s-sweeping-wall-street)
+
+
+이전 글에서 다뤘던 것 처럼, crowd-sourced hedge fund 를 표방하는 스타트업들도 있다. Quantopian 이나 QuantConnect가 대표적이다.
+
+
+
