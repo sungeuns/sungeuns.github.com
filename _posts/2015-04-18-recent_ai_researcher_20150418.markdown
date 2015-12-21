@@ -32,11 +32,14 @@ tags: [Artificial Intelligence]
 뉴욕대 교수로 현재는 Facebook 에서 AI reserach Lab을 이끌고 있다. Convolutional Neural Network의 대가로, AT&T 연구원이던 시절 개발한 숫자 인식기는 꽤 오랬동안 사용된 걸로 알고 있다. Facebook 또한 LeCun 교수의 영입으로 인공지능 분야에서 앞서가는 회사가 되었다. 사실 유명한 연구원을 영입한다고 그 회사가 그 분야에서 단숨에 뛰어난 회사가 되는 것이 아니지만, 유명한 연구자와 함께 일하고 싶어하는 수많은 연구자들에게 그 회사가 매력적으로 보이게 만들어서, 수 많은 인재들을 끌어모으게 된다. 그래서 실리콘벨리 기업들이 뛰어난 인재나 유명한 연구원들을 영입하는 데 혈안이 된 것이고 말이다. 아무튼, 현재도 활발하게 연구를 하고 있다.
 
 
+### Jurgen Schmidhuber
+
+슈밋후버 교수는 LSTM 논문의 공저자이다. AI 분야에 오랫동안 엄청나게 많은 연구 성과를 쏟아냈고, 최근에도 아주 활발하게 활동하고 있다. RNN 관련 논문들을 굉장히 많이 내고 있으며, Deep learning 관련 연구를 하다 보면 워낙 많이 나와서 익숙해지는 이름이다.
+
 
 ### Michael Jordan
 
 참고로 농구선수 마이클 조던이 아니다. UC버클리의 교수이며, Probabilistic Graphical Model 의 대가이다. 마이클 조던 교수의 연구 업적은 정말 엄청나게 화려하다. 최근 Deep learning이 너무 주목 받는 바람에 PGM의 주목도가 많이 떨어졌는데, 인공지능 연구에 있어서 Deep learning만 가지고는 해결 안되는 문제들이 굉장히 많다. (관련 내용도 추후 정리를 할 예정.) 어쨌든, 최근까지도 굉장히 활발하게 연구를 하고 있고, 마찬가지로 그의 제자들의 면면도 엄청나게 화려한데, Andrew Ng의 박사과정 지도교수가 마이클 조던 교수였다.
-
 
 
 ### Daphne Koller
@@ -67,9 +70,35 @@ Hinton 교수의 제자이며, Recurrent Neural Network 과 관련된 연구업�
 스탠포드대 교수이며, General AI를 표방하는 스타트업인 vicarious의 advisor이기도 하다. Vision 쪽으로 굉장히 많은 연구 업적이 있다.
 
 
+### Nando de Freitas
+
+Nando de Freitas 교수가 Youtube에 올려 둔 Machine Learning 관련 강의들은 UBC 에서 강의할 때 직접 녹화하여 올린 것으로, 내용이 굉장히 좋다. 역시 활발할게 활동하고 있다.
+
+
+### Hugo Larochelle
+
+Hugo Larochelle 교수가 Youtube에 올려 둔 Neural Network 강의는 기본적인 Neural Net 과 Deep learning에 관하여 쉽고 친절하게 잘 가르쳐 준다. Jasper Snoek 과 함께 Spearmint 의 공저자이기도 하며, 이걸 이용하여 whetlab 이라는 SigOpt 와 유사한 스타트업을 창업한 후, twitter 에 인수당하여 현재는 twitter의 과학자로 일하고 있는 걸로 알려져 있다.
+
+
+
 ### Richard Socher
 
 Christopher Manning의 제자로, Deep Learning 과 관련된 NLP 관련 연구가 많다. Recursive Neural Network 과 관련된 논문을 많이 발표하였고, MetaMind 를 창업하였다.
+
+
+### Tomas Mikolov
+
+Facebook 연구원으로 구글에 있을 때 쓴 word2vec가 엄청난 인기를 끌었다. 마찬가지로 Deep learning 과 관련된 NLP 관련 연구가 많다.
+
+
+### Ilya Sutskever
+
+Hinton의 제자로, 여러 딥 러닝 관련 논문들을 냈으며 현재도 구글에서 매우 활발하게 연구하고 있는 것으로 보인다.
+
+
+### Alex Krizhevsky
+
+Hinton의 제자로, 수 많은 딥러닝 프레임워크 들이 기본 예제로 장착하고 있는 그 유명한 AlexNet 을 만든 사람이다. 2012년 AlexNet을 발표하여 엄청난 인기를 끌었다.
 
 
 ### Andriy Mnih
